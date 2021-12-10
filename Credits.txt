@@ -1,0 +1,9 @@
+"[asset name]" by [author name] licensed [license(s)]: [asset url]
+
+Christmas Tree Ornaments Created by Jordan Irwin (AntumDeluge)
+Pine Tree Pack by KnoblePersona licensed CC-BY 3.0: https://opengameart.org/content/pine-tree-pack
+Stars - Set 01 https://opengameart.org/content/stars-set-01
+Seasonal Platformer Tiles by GrafxKid licensed CC0: https://opengameart.org/content/seasonal-platformer-tiles
+Winter Background , parexel scrolling by pechvogel licensed CC-BY 3.0: https://opengameart.org/content/winter-background-parexel-scrolling
+3 Character Sprite Sheets by CraftPix.net 2D Game Assets licensed OGA-BY 3.0: https://opengameart.org/content/3-character-sprite-sheets
+Fire Texture, Laser Texture for Unity by Alexander123 licensed CC0: https://opengameart.org/content/fire-texture-laser-texture-for-unity
