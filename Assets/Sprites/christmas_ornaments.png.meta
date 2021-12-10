@@ -1,0 +1,1668 @@
+fileFormatVersion: 2
+guid: 6a54956fbd013ad48bb11d1fc4a8c5e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1919832093730775971
+    second: christmas_ornaments_0
+  - first:
+      213: -3603307785993763631
+    second: christmas_ornaments_1
+  - first:
+      213: -1434563733665375933
+    second: christmas_ornaments_2
+  - first:
+      213: -7267927440819046675
+    second: christmas_ornaments_3
+  - first:
+      213: 5115315030854292422
+    second: christmas_ornaments_4
+  - first:
+      213: 2899656835946552326
+    second: christmas_ornaments_5
+  - first:
+      213: 2134437318595838103
+    second: christmas_ornaments_7
+  - first:
+      213: 3549178050735565770
+    second: christmas_ornaments_8
+  - first:
+      213: 1376249881135427919
+    second: christmas_ornaments_9
+  - first:
+      213: -8544178592534219227
+    second: christmas_ornaments_10
+  - first:
+      213: -8561220836954634563
+    second: christmas_ornaments_11
+  - first:
+      213: 5033840403031147829
+    second: christmas_ornaments_12
+  - first:
+      213: 8162997656988643148
+    second: christmas_ornaments_13
+  - first:
+      213: -2501565210300117686
+    second: christmas_ornaments_14
+  - first:
+      213: 8459056187717524826
+    second: christmas_ornaments_15
+  - first:
+      213: -6603649433826335551
+    second: christmas_ornaments_16
+  - first:
+      213: -4308497137325699597
+    second: christmas_ornaments_17
+  - first:
+      213: -597406059413388902
+    second: christmas_ornaments_18
+  - first:
+      213: -8033268766821970520
+    second: christmas_ornaments_19
+  - first:
+      213: -5608000232265429803
+    second: christmas_ornaments_20
+  - first:
+      213: 4359402700029102211
+    second: christmas_ornaments_21
+  - first:
+      213: 6021881762709073023
+    second: christmas_ornaments_22
+  - first:
+      213: 438542286414368316
+    second: christmas_ornaments_23
+  - first:
+      213: 7151473794337088916
+    second: christmas_ornaments_24
+  - first:
+      213: 4917862848625574900
+    second: christmas_ornaments_25
+  - first:
+      213: 1034439312515795973
+    second: christmas_ornaments_26
+  - first:
+      213: 4623085576283450860
+    second: christmas_ornaments_27
+  - first:
+      213: -1284859642241269980
+    second: christmas_ornaments_28
+  - first:
+      213: -4467412835435425386
+    second: christmas_ornaments_29
+  - first:
+      213: -2878197051011006935
+    second: christmas_ornaments_30
+  - first:
+      213: 1364835078664795096
+    second: christmas_ornaments_31
+  - first:
+      213: -1599795033434068693
+    second: christmas_ornaments_32
+  - first:
+      213: 1817255267947756337
+    second: christmas_ornaments_33
+  - first:
+      213: 1031965764798594475
+    second: christmas_ornaments_34
+  - first:
+      213: -7104748517046445919
+    second: christmas_ornaments_35
+  - first:
+      213: -6621583312639247071
+    second: christmas_ornaments_36
+  - first:
+      213: 7500140422307089863
+    second: christmas_ornaments_37
+  - first:
+      213: -4119017676477271221
+    second: christmas_ornaments_38
+  - first:
+      213: -7529000528170995182
+    second: christmas_ornaments_39
+  - first:
+      213: 3196917207436228862
+    second: christmas_ornaments_40
+  - first:
+      213: 7082512941194233402
+    second: christmas_ornaments_41
+  - first:
+      213: 3829592053361084466
+    second: christmas_ornaments_42
+  - first:
+      213: 865963044631382352
+    second: christmas_ornaments_43
+  - first:
+      213: 1950492554152565500
+    second: christmas_ornaments_44
+  - first:
+      213: -7347090938996922708
+    second: christmas_ornaments_45
+  - first:
+      213: -3017154920047897779
+    second: christmas_ornaments_46
+  - first:
+      213: 8296498998947721648
+    second: christmas_ornaments_47
+  - first:
+      213: 907757698868650087
+    second: christmas_ornaments_48
+  - first:
+      213: 2295731572071537667
+    second: christmas_ornaments_49
+  - first:
+      213: 1239083785765087260
+    second: christmas_ornaments_50
+  - first:
+      213: -6146844506123987065
+    second: christmas_ornaments_51
+  - first:
+      213: -6703781487833717572
+    second: christmas_ornaments_52
+  - first:
+      213: -2629010492881118319
+    second: christmas_ornaments_53
+  - first:
+      213: 5091605697528837627
+    second: christmas_ornaments_54
+  - first:
+      213: -5926721709121668540
+    second: christmas_ornaments_55
+  - first:
+      213: 8042785600778624195
+    second: christmas_ornaments_56
+  - first:
+      213: 773045776168244718
+    second: christmas_ornaments_57
+  - first:
+      213: -6060061941787998781
+    second: christmas_ornaments_58
+  - first:
+      213: 744712330240805101
+    second: christmas_ornaments_59
+  - first:
+      213: -2784565061447759710
+    second: christmas_ornaments_60
+  - first:
+      213: -240827259072750889
+    second: christmas_ornaments_61
+  - first:
+      213: -5172605184449796616
+    second: christmas_ornaments_62
+  - first:
+      213: 6335878926637218672
+    second: christmas_ornaments_63
+  - first:
+      213: 8221154179854384947
+    second: christmas_ornaments_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: christmas_ornaments_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 114
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c58c8e1e26b55e0800000000000000
+      internalID: -1919832093730775971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 114
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d44177e8aa7efdc0800000000000000
+      internalID: -3603307785993763631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 115
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349973782e7671ce0800000000000000
+      internalID: -1434563733665375933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 115
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6baacef72232b90800000000000000
+      internalID: -7267927440819046675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 116
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c359402bef3df640800000000000000
+      internalID: 5115315030854292422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 116
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c902d7786ad3820800000000000000
+      internalID: 2899656835946552326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 98
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7900e3abe6b0f9d10800000000000000
+      internalID: 2134437318595838103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 98
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbe4bef1a6314130800000000000000
+      internalID: 3549178050735565770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 99
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f413047a9fb691310800000000000000
+      internalID: 1376249881135427919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 99
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526308ec6dafc6980800000000000000
+      internalID: -8544178592534219227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 100
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db685a1120f603980800000000000000
+      internalID: -8561220836954634563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 100
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5354ea61d2bcbd540800000000000000
+      internalID: 5033840403031147829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 82
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f672f9e1bc84170800000000000000
+      internalID: 8162997656988643148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 82
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d0691f1b7a84dd0800000000000000
+      internalID: -2501565210300117686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 83
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d19f3e8ca946570800000000000000
+      internalID: 8459056187717524826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 83
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4629bd3df1b54a0800000000000000
+      internalID: -6603649433826335551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 84
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd0ae55ea42534c0800000000000000
+      internalID: -4308497137325699597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91cff9aa5695b7f0800000000000000
+      internalID: -597406059413388902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 66
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad06506e98148090800000000000000
+      internalID: -8033268766821970520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 66
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcc28f40816c22b0800000000000000
+      internalID: -5608000232265429803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 67
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3880d1898a5bf7c30800000000000000
+      internalID: 4359402700029102211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 67
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c6da1de85029350800000000000000
+      internalID: 6021881762709073023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e47b0d2e3061600800000000000000
+      internalID: 438542286414368316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 68
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4952afb96832f3360800000000000000
+      internalID: 7151473794337088916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 50
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f30b627432cf3440800000000000000
+      internalID: 4917862848625574900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 50
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c0434f2111b5e00800000000000000
+      internalID: 1034439312515795973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 50
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced6b9466df782040800000000000000
+      internalID: 4623085576283450860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 50
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f39fd76f24b2ee0800000000000000
+      internalID: -1284859642241269980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 50
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691d9de02bf8002c0800000000000000
+      internalID: -4467412835435425386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 50
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e79ec08079e08d0800000000000000
+      internalID: -2878197051011006935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 50
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3bec8d54ed0f210800000000000000
+      internalID: 1364835078664795096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_32
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 50
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b296ab6a4e26cc9e0800000000000000
+      internalID: -1599795033434068693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_33
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 50
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bbb38b900383910800000000000000
+      internalID: 1817255267947756337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 50
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad3f2f3567425e00800000000000000
+      internalID: 1031965764798594475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 34
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a896f6cddcd66d90800000000000000
+      internalID: -7104748517046445919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 34
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dbb7f4f096b14a0800000000000000
+      internalID: -6621583312639247071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 34
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd89250af9d51860800000000000000
+      internalID: 7500140422307089863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43740a2f3f46d6c0800000000000000
+      internalID: -4119017676477271221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_39
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 34
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212b3a4f8ed938790800000000000000
+      internalID: -7529000528170995182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 34
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8f19d134bbd5c20800000000000000
+      internalID: 3196917207436228862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 34
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a364df8cef32a4260800000000000000
+      internalID: 7082512941194233402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_42
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 34
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2380f37bea1752530800000000000000
+      internalID: 3829592053361084466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_43
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 34
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0598edf0dc4840c00800000000000000
+      internalID: 865963044631382352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 34
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfade43d4aa811b10800000000000000
+      internalID: 1950492554152565500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 18
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6e890b7b3e90a90800000000000000
+      internalID: -7347090938996922708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_46
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 18
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d431936f599e026d0800000000000000
+      internalID: -3017154920047897779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_47
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 18
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1b9aff1e5132370800000000000000
+      internalID: 8296498998947721648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 18
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760213f41d0099c00800000000000000
+      internalID: 907757698868650087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_49
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 18
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c19f493b31cdf10800000000000000
+      internalID: 2295731572071537667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_50
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 18
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c186971632c123110800000000000000
+      internalID: 1239083785765087260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 18
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7871be23d7502baa0800000000000000
+      internalID: -6146844506123987065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_52
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 18
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4e4d5414267f2a0800000000000000
+      internalID: -6703781487833717572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_53
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 18
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bdb05c2e0e38bd0800000000000000
+      internalID: -2629010492881118319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_54
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 18
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5bf89c76409a640800000000000000
+      internalID: 5091605697528837627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44af435b10e00cda0800000000000000
+      internalID: -5926721709121668540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc590334e6bd9f60800000000000000
+      internalID: 8042785600778624195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5df93a9096aba00800000000000000
+      internalID: 773045776168244718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5ccd285c556eba0800000000000000
+      internalID: -6060061941787998781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_59
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de84bdf2befb55a00800000000000000
+      internalID: 744712330240805101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_60
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8417274dc3b59d0800000000000000
+      internalID: -2784565061447759710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_61
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dadcb242e868acf0800000000000000
+      internalID: -240827259072750889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_62
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5a6898df63738b0800000000000000
+      internalID: -5172605184449796616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_63
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b381a90509de750800000000000000
+      internalID: 6335878926637218672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: christmas_ornaments_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f30f54b28671270800000000000000
+      internalID: 8221154179854384947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
