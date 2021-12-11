@@ -7,6 +7,7 @@ public class Ornament : MonoBehaviour
     public LineRenderer lineRenderer;
     public Camera mainCamera;
     public SpriteRenderer spriteRenderer;
+    int damage = 1;
 
     // Start is called before the first frame update
     void Start()
@@ -14,7 +15,6 @@ public class Ornament : MonoBehaviour
         lineRenderer.useWorldSpace = true;
         lineRenderer.enabled = false;
         lineRenderer.SetPosition(0, transform.position);
-        
     }
 
     // Update is called once per frame
@@ -27,6 +27,8 @@ public class Ornament : MonoBehaviour
         {
             lineRenderer.enabled = true;
             lineRenderer.SetPosition(1, raycastHit2D.point);
+            if (raycastHit2D.collider.name != "Colliders")
+                raycastHit2D.collider.SendMessage("TakeDamage", damage * Time.deltaTime);
         }
         else
         {
