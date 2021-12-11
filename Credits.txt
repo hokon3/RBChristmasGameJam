@@ -7,3 +7,6 @@ Seasonal Platformer Tiles by GrafxKid licensed CC0: https://opengameart.org/cont
 Winter Background , parexel scrolling by pechvogel licensed CC-BY 3.0: https://opengameart.org/content/winter-background-parexel-scrolling
 3 Character Sprite Sheets by CraftPix.net 2D Game Assets licensed OGA-BY 3.0: https://opengameart.org/content/3-character-sprite-sheets
 Fire Texture, Laser Texture for Unity by Alexander123 licensed CC0: https://opengameart.org/content/fire-texture-laser-texture-for-unity
+The Boss by gustavoasilveira licensed CC-BY 3.0: https://opengameart.org/content/the-boss
+2D car sprite by Chasersgaming licensed CC0: https://opengameart.org/content/2d-car-sprite-6
+2D Explosion Animations | Frame by frame by Sinestesia licensed CC0: https://opengameart.org/content/2d-explosion-animations-frame-by-frame

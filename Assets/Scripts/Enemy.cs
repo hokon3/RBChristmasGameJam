@@ -8,10 +8,10 @@ public abstract class Enemy : MonoBehaviour
     public Animator animator;
     public bool doDamage;
     bool dealtDamage = false;
-    float treePosition = -0.19f;
-    float hp = 5;
-    float speed = 1;
-    int damage = 1;
+    public virtual float TreePosition { get; set; }
+    public virtual float Hp { get; set; }
+    public virtual float Speed { get; set; }
+    public virtual int Damage { get; set; }
 
     // Start is called before the first frame update
     void Start()
@@ -21,27 +21,27 @@ public abstract class Enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (hp <= 0)
+        if (Hp <= 0)
         {
-            speed = -1;
+            Speed = -1;
             animator.SetBool("Attacking", false);
         }
-        else if (transform.localPosition.x >= treePosition)
+        else if (transform.localPosition.x >= TreePosition)
         {
-            speed = 0;
+            Speed = 0;
             animator.SetBool("Attacking", true);
         }
         else
         {
             animator.SetBool("Attacking", false);
         }
-        if (speed != 0)
+        if (Speed != 0)
         {
-            transform.localPosition = new Vector2(transform.localPosition.x + (speed * Time.deltaTime), transform.localPosition.y);
+            transform.localPosition = new Vector2(transform.localPosition.x + (Speed * Time.deltaTime), transform.localPosition.y);
         }
         else if (doDamage && !dealtDamage)
         {
-            this.SendMessageUpwards("treeTakeDamage", damage);
+            this.SendMessageUpwards("treeTakeDamage", Damage);
             dealtDamage = true;
         }
         else if (!doDamage)
@@ -52,10 +52,12 @@ public abstract class Enemy : MonoBehaviour
 
     void TakeDamage(float damage)
     {
-        hp -= damage;
-        if (hp <= 0)
+        Hp -= damage;
+        if (Hp <= 0)
         {
             spriteRenderer.flipX = true;
+            this.GetComponent<BoxCollider2D>().enabled = false;
+            SendMessageUpwards("enemyKilled");
         }
     }
 }
