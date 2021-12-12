@@ -38,6 +38,10 @@ public abstract class Enemy : MonoBehaviour
         if (Speed != 0)
         {
             transform.localPosition = new Vector2(transform.localPosition.x + (Speed * Time.deltaTime), transform.localPosition.y);
+            if (transform.localPosition.x < -10)
+            {
+                Destroy(gameObject);
+            }
         }
         else if (doDamage && !dealtDamage)
         {

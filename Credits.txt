@@ -1,5 +1,6 @@
-"[asset name]" by [author name] licensed [license(s)]: [asset url]
+Game created by Håkon Mølstre for RamBase christmas gamejam
 
+Asset credits:
 Christmas Tree Ornaments Created by Jordan Irwin (AntumDeluge)
 Pine Tree Pack by KnoblePersona licensed CC-BY 3.0: https://opengameart.org/content/pine-tree-pack
 Stars - Set 01 https://opengameart.org/content/stars-set-01

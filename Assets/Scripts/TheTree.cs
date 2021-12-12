@@ -14,11 +14,13 @@ public class TheTree : MonoBehaviour
     public GameObject prefabAxeMan;
     public GameObject[] AllOrnaments;
 
+    bool gameStarted = false;
     int livingEnemies = 0;
     int joy = 0;
-    int ornaments = 0;
+    int ornaments = -1;
 
-    int axeMen = 10;
+    int axeMen = 50;
+    float axeMenSpawnTimeMax = 5;
     float axeMenSpawnTimer = 1;
     bool bossActivated = false;
     // Start is called before the first frame update
@@ -30,6 +32,10 @@ public class TheTree : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (!gameStarted)
+        {
+            return;
+        }
         axeMenSpawnTimer -= Time.deltaTime;
         if (axeMenSpawnTimer <= 0 && axeMen > 0)
         {
@@ -45,6 +51,13 @@ public class TheTree : MonoBehaviour
         }
     }
 
+    void gameStart()
+    {
+        joy = 100;
+        buyOrnament();
+        gameStarted = true;
+    }
+
     void updateTexts()
     {
         hpText.text = "HP = " + health;
@@ -56,7 +69,8 @@ public class TheTree : MonoBehaviour
         Instantiate(prefabAxeMan, transform, false);
         axeMen--;
         livingEnemies++;
-        axeMenSpawnTimer = 10;
+        axeMenSpawnTimeMax = axeMen / 10;
+        axeMenSpawnTimer = axeMenSpawnTimeMax;
     }
 
     void bossTime()
@@ -80,7 +94,7 @@ public class TheTree : MonoBehaviour
     void enemyKilled()
     {
         livingEnemies--;
-        joy += 50;
+        joy += 40;
         updateTexts();
     }
 
@@ -92,6 +106,7 @@ public class TheTree : MonoBehaviour
         {
             gameOverText.enabled = true;
             hpText.text = "HP = " + 0;
+            enabled = false;
         }
         else
         {
