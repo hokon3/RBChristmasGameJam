@@ -7,7 +7,7 @@ public class Ornament : MonoBehaviour
     public LineRenderer lineRenderer;
     public Camera mainCamera;
     public SpriteRenderer spriteRenderer;
-    int damage = 1;
+    public int damage;
 
     // Start is called before the first frame update
     void Start()
@@ -23,7 +23,7 @@ public class Ornament : MonoBehaviour
         Vector2 vector2 = mainCamera.ScreenToWorldPoint(Input.mousePosition);
         RaycastHit2D raycastHit2D = Physics2D.Raycast(transform.position, vector2 - (Vector2)transform.position);
 
-        if (Input.GetMouseButton(0))
+        if (Input.GetMouseButton(0) && spriteRenderer.enabled)
         {
             lineRenderer.enabled = true;
             lineRenderer.SetPosition(1, raycastHit2D.point);
@@ -35,5 +35,13 @@ public class Ornament : MonoBehaviour
             lineRenderer.enabled = false;
         }
 
+    }
+
+    void activateOrnament(int ornamentId)
+    {
+        if (name.Contains(ornamentId.ToString()))
+        {
+            spriteRenderer.enabled = true;
+        }
     }
 }

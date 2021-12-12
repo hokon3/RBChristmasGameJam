@@ -7,12 +7,16 @@ public class TheTree : MonoBehaviour
 {
     int health = 10;
     public Text hpText;
+    public Text joyText;
     public Text gameOverText;
     public Text victoryText;
 
     public GameObject prefabAxeMan;
+    public GameObject[] AllOrnaments;
 
     int livingEnemies = 0;
+    int joy = 0;
+    int ornaments = 0;
 
     int axeMen = 10;
     float axeMenSpawnTimer = 1;
@@ -20,7 +24,7 @@ public class TheTree : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        hpText.text = "HP = " + health;
+        updateTexts();
     }
 
     // Update is called once per frame
@@ -41,6 +45,12 @@ public class TheTree : MonoBehaviour
         }
     }
 
+    void updateTexts()
+    {
+        hpText.text = "HP = " + health;
+        joyText.text = "Christmas joy = " + joy;
+    }
+
     void spawnAxeMan()
     {
         Instantiate(prefabAxeMan, transform, false);
@@ -56,9 +66,22 @@ public class TheTree : MonoBehaviour
         livingEnemies++;
     }
 
+    void buyOrnament()
+    {
+        if (joy >= 100 && ornaments < 8)
+        {
+            ornaments++;
+            joy -= 100;
+            BroadcastMessage("activateOrnament", ornaments);
+            updateTexts();
+        }
+    }
+
     void enemyKilled()
     {
         livingEnemies--;
+        joy += 50;
+        updateTexts();
     }
 
     void treeTakeDamage(int damage)
@@ -72,7 +95,7 @@ public class TheTree : MonoBehaviour
         }
         else
         {
-            hpText.text = "HP = " + health;
+            updateTexts();
         }
     }
 }
